@@ -1,7 +1,7 @@
 class Royal
   attr_reader :name
 
-  def initialize(name)
+  def intialize(name)
     @name = name
   end
 end
